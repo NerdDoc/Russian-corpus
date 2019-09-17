@@ -1,6 +1,7 @@
 # Russian-corpus
 Russian corpus for mimic-recording-studio
 !!!! ALL texts was taken from public sources(libraries)
+
 How to use 
 1. Create file input.txt
 2. Add some text to it(Please, do not add direct speech)
